@@ -44,8 +44,12 @@
 
 ###
 
-<h2 align="left">GitHub Activity</h2>
+<h2 align="left">🌐 My Website</h2>
 
-<p align="center">
-  <img src="https://github.com/Fast-Programmer7/Fast-Programmer7/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<p align="left">
+  🚀 <a href="https://fast-programmer7.github.io/FastProgrammer/" target="_blank">https://fast-programmer7.github.io/FastProgrammer/</a>
 </p>
+
+###
+
+<img src="https://raw.githubusercontent.com/Fast-Programmer7/Fast-Programmer7/output/snake.svg" alt="Snake animation" />
