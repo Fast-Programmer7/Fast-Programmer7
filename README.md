@@ -44,4 +44,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Fast-Programmer7/Fast-Programmer7/output/snake.svg" alt="Snake animation" />
+<h2 align="left">GitHub Activity</h2>
+
+<p align="center">
+  <img src="https://github.com/Fast-Programmer7/Fast-Programmer7/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
