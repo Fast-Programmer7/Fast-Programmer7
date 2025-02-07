@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Passionate about solving complex problems and delivering quality code.<br>📚 Continuously improving my skills across various technologies.<br>🎯 Focused on building scalable and efficient applications.<br>🎲 I thrive on challenges and enjoy learning new technologies to stay ahead.</p>
+<p align="left">✨ Passionate about solving complex problems and delivering quality code.<br>📚 Continuously improving my skills across various technologies.<br>🎯 Focused on building scalable and efficient applications, programs, websites, and more.<br>🎲 I thrive on challenges and enjoy learning new technologies to stay ahead.</p>
 
 ###
 
@@ -45,5 +45,3 @@
 ###
 
 <img src="https://raw.githubusercontent.com/Fast-Programmer7/Fast-Programmer7/output/snake.svg" alt="Snake animation" />
-
-###
