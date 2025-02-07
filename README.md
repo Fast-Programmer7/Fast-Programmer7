@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2025<br>🎯 Goals: Become a skilled full-stack developer and help others with web projects<br>🎲 Fun fact: I love solving problems and learning new things!</p>
+<p align="left">🎲 Fun fact: I enjoy solving complex problems and continuously improving my skills.</p>
 
 ###
 
